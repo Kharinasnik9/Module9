@@ -44,8 +44,6 @@
                     Console.WriteLine("Finally выполнен");
                 }
 
-
-
             }
         }
     }
